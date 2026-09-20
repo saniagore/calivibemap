@@ -1,0 +1,21 @@
+{
+    "id": "svt",
+    "name": "Santiago Vanegas Torres",
+    "lat": 3.4510,
+    "lng": -76.5320,
+    "color": "#00D4FF",
+    "photo": "https://i.pinimg.com/736x/7f/51/df/7f51df7eb2d736b2f131e847b6f09163.jpg",
+    "likes": ["Gaming", "Café", "Python", "Salchipapa"],
+    "dislikes": ["Madrugar"],
+    "socialMedia": "@san.v056",
+    "quote": "Código, café y una buena partida, más no pido.",
+    "vibe": "Gamer nocturno con Python en el fondo",
+    "superpower": "Parar el tiempo para dormir 5 minutos más",
+    "topLike": { "name": "Gaming", "rating": 5 },
+    "favoriteTool": { "name": "Python", "icon": "fa-brands fa-python" },
+    "song": { "title": "El Amar y El Querer", "artist": "José José", "url": "https://open.spotify.com/search/El%20Amar%20y%20El%20Querer%20Jose%20Jose" },
+    "topSpots": [
+        "La Calle del Sabor - salchipapas",
+        "Boulevard del Río - caminatas"
+    ]
+}

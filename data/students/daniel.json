@@ -1,0 +1,22 @@
+{
+    "id": "damg",
+    "name": "Daniel Andres Micolta Gongora",
+    "lat": 3.490794,
+    "lng": -76.489827,
+    "color": "#7A0000",
+    "photo": "https://i.ibb.co/CKCpDsVS/Save-Tik-io-7663873873586212097-4.jpg",
+    "likes": ["Senderismo", "Gaming", "Manhwas", "Salchipapa", "Anime"],
+    "dislikes": ["Desorden", "Caos"],
+    "socialMedia": "@tt2_micolta",
+    "quote": "Actua y vive.",
+    "vibe": "Curioso, relajado y siempre intentando mejorar",
+    "superpower": "Pensar antes de hablar",
+    "topLike": { "name": "Paisajes", "rating": 5 },
+    "favoriteTool": { "name": "Python", "icon": "fa-brands fa-python" },
+    "song": { "title": "The Lady in My Life", "artist": "Michael Jackson", "url": "https://open.spotify.com/intl-es/track/07L1pzoVerhRSSaDGZHrKy?si=ef763b5453de480a" },
+    "topSpots": [
+        "Cerro de las tres cruces - Senderismo",
+        "Cascada la esmeralda - Senderismo",
+        "Ciudad Melendez - Parchesitos de finde"
+    ]
+}
