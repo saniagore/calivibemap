@@ -1,0 +1,21 @@
+{
+    "id": "lcla",
+    "name": "Luis Carlos Lucero Anaguano",
+    "lat": 3.452148,
+    "lng": -76.502353,
+    "color": "#1E40AF",
+    "photo": "https://i.ibb.co/xS1TNWrX/IMG-20260803-101804562-HDR.jpg",
+    "likes": ["Futbol", "Cine", "Gaming", "LoL Competitivo"],
+    "dislikes": ["Madrugar"],
+    "socialMedia": "@",
+    "quote": "Siempre te toca lo que mereces",
+    "vibe": "Despreocupado",
+    "superpower": "Ver sin necesidad de Gafas",
+    "topLike": { "name": "Dormir", "rating": 5 },
+    "favoriteTool": { "name": "Node.js", "icon": "fa-brands fa-node" },
+    "song": { "title": "They Dont Care About Us", "artist": "Michael Jackson", "url": "https://open.spotify.com/intl-es/track/3wuCCNCnBhJlwkIJTBZFiv?si=657fa18d34a94868" },
+    "topSpots": [
+        "Izi Movie - C.C Aquarela",
+        "Cine Colombia - Unicentro"
+    ]
+}
