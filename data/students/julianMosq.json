@@ -1,0 +1,21 @@
+{
+    "id": "99999542",
+    "name": "Julian Arley Mosquera",
+    "lat": 3.416864059685776,
+    "lng": -76.48580713654768,
+    "color": "#000000",
+    "photo": "https://cdn-img.staticzz.com/img/jogadores/new/07/72/772_ronaldinho_gaucho_20260425225242.jpg",
+    "likes": ["jugar futbol", "dinero", "videojuegos", "jugo de mora", "viajar"],
+    "dislikes": ["Uyucos", "quejas"],
+    "socialMedia": "@",
+    "quote": "Gano o aprendo, numca pierdo",
+    "vibe": "vivela que te vas a morir",
+    "superpower": "Perseverancia",
+    "topLike": { "name": "viajar", "rating": 5 },
+    "favoriteTool": { "name": "Python", "icon": "fa-brands fa-python" },
+    "song": { "title": "Xxplosive", "artist": "Dr. Dre, Hittman, Six-Two, Nate Dogg, Kurupt", "url": "https://www.youtube.com/watch?v=WdlyIH2DX60&list=RDWdlyIH2DX60&start_radio=1" },
+    "topSpots": [
+        "Univalle - clima",
+        "Acuaparque de la caña - diversion"
+    ]
+}
