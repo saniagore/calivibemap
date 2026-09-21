@@ -1,0 +1,25 @@
+{
+  "id": 6,
+  "name": "Juan Diego Ledezma",
+  "lat": 3.4164,
+  "lng": -76.5255,
+  "color": "#1F618D",
+  "photo": "https://randomuser.me/api/portraits/men/65.jpg",
+  "likes": ["Gaming", "Hamburguesitas", "Emuladores de PS2", "Manhwas"],
+  "dislikes": ["El calor de Cali", "Cargar el celular en un ángulo específico"],
+  "socialMedia": "@juan_ledz",
+  "quote": "No sé manito.",
+  "superpower": "Que no me piquen los mosquitos",
+  "topLike": { "name": "Libritos", "rating": 4 },
+  "favoriteTool": { "name": "Python", "icon": "fa-brands fa-python" },
+  "song": {
+    "title": "Remember the Time",
+    "artist": "Michael Jackson",
+    "url": "https://open.spotify.com/search/Remember%20the%20Time%20Michael%20Jackson"
+  },
+  "topSpots": [
+    "Cerro de las Tres Cruces",
+    "Cine Colombia Premier Limonar",
+    "Martin Birrieria - me gustan las quesadillas de ahi"
+  ]
+}
